@@ -1,0 +1,49 @@
+/* 
+Defaults
+*/
+
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+
+}
+
+a {
+    text-decoration: none;
+}
+
+/* End of defaults */
+#header{
+    background-color: black;
+  
+}
+#header #logo {
+    
+    padding: 10px 15px;
+}
+
+span a {
+    color: white;
+    padding: 10px 20px;
+}
+
+#logo {
+    display: inline-block;
+    padding: 20px;
+    font-size: larger;
+}
+.search a {
+    text-decoration: none;
+    color: white;
+}
+#nav{
+    display: inline-block;
+    width: 60%;
+    text-align: right;
+
+}
+#nav li{
+    display: inline-block;
+    
+}
