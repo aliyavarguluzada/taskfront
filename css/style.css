@@ -39,8 +39,9 @@ span a {
 }
 #nav{
     display: inline-block;
-    width: 60%;
+    width: 65%;
     text-align: right;
+    font-size: larger
 
 }
 #nav li{
